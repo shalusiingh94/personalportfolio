@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I excel in building responsive, dynamic, and user-centered interfaces. I am skilled in HTML, CSS, and JavaScript, utilizing frameworks and libraries to create interactive experiences. "
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I build secure, scalable systems, managing databases, server logic, and APIs to support seamless interactions on the frontend. I work ensures efficient data flow, reliability, and overall performance."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": " I craft intuitive and visually engaging interfaces. I focus on user-centered design, combining aesthetics with functionality to create seamless experiences across digital platforms."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "As a Webflow designer,I build visually appealing, responsive websites with a focus on interactivity and smooth user experiences. Leveraging Webflow's design tools,I create dynamic sites"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/1111.png",
+      "title": "Dental Clic",
+      "description": "website provides essential information about services, treatments, and the clinic’s team, while allowing patients to book appointments, view testimonials, and access educational resources.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/11.png",
+      "title": "Arrtoes",
+      "description": "A handmade decor selling website showcases unique, artisan-crafted items, offering a warm and personalized shopping experience. It highlights the craftsmanship and stories behind each piece",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/11111.png",
+      "title": "weather",
+      "description": "A weather website provides real-time forecasts, local and global weather conditions, and alerts. It features a clear layout with interactive maps, hourly and weekly forecasts, and useful information",
+      "link": "View In Github"
+    }
+  ]
+  
+}
